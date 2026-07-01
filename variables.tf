@@ -8,7 +8,7 @@ variable "instance_type" {
 
 variable "ami_id" {
   description = "Ubuntu AMI ID for the selected AWS region"
-  default     = "ami-06067086cf86c58e6"
+  default     = "ami-0a02a779008fa3b99"
 }
 
 variable "vpc_id" {
